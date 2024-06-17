@@ -1,0 +1,16 @@
+D:\uni\sem4\NET\QLTV\QLTV\bin\Debug\QLTV.exe.config
+D:\uni\sem4\NET\QLTV\QLTV\bin\Debug\QLTV.exe
+D:\uni\sem4\NET\QLTV\QLTV\bin\Debug\QLTV.pdb
+D:\uni\sem4\NET\QLTV\QLTV\bin\Debug\EntityFramework.dll
+D:\uni\sem4\NET\QLTV\QLTV\bin\Debug\EntityFramework.SqlServer.dll
+D:\uni\sem4\NET\QLTV\QLTV\bin\Debug\EntityFramework.xml
+D:\uni\sem4\NET\QLTV\QLTV\bin\Debug\EntityFramework.SqlServer.xml
+D:\uni\sem4\NET\QLTV\QLTV\obj\Debug\QLTV.csproj.AssemblyReference.cache
+D:\uni\sem4\NET\QLTV\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+D:\uni\sem4\NET\QLTV\QLTV\obj\Debug\QLTV.Form1.resources
+D:\uni\sem4\NET\QLTV\QLTV\obj\Debug\QLTV.UI.Form2.resources
+D:\uni\sem4\NET\QLTV\QLTV\obj\Debug\QLTV.csproj.GenerateResource.cache
+D:\uni\sem4\NET\QLTV\QLTV\obj\Debug\QLTV.csproj.CoreCompileInputs.cache
+D:\uni\sem4\NET\QLTV\QLTV\obj\Debug\QLTV.csproj.CopyComplete
+D:\uni\sem4\NET\QLTV\QLTV\obj\Debug\QLTV.exe
+D:\uni\sem4\NET\QLTV\QLTV\obj\Debug\QLTV.pdb
